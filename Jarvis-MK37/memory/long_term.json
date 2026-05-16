@@ -1,0 +1,27 @@
+{
+  "identity": {
+    "creator_name": {
+      "value": "Shokhjakhon Azizov",
+      "updated": "2026-05-16"
+    }
+  },
+  "preferences": {},
+  "projects": {
+    "jarvis_project_goal": {
+      "value": "Create a unique system like Jarvis, inspired since 2013",
+      "updated": "2026-05-16"
+    },
+    "future_project": {
+      "value": "Develop Mark New World as a new OS (Windows, macOS, Linux style)",
+      "updated": "2026-05-16"
+    }
+  },
+  "relationships": {},
+  "wishes": {
+    "inspiration_source": {
+      "value": "Jarvis from Marvel movies (Avengers) seen in 2013",
+      "updated": "2026-05-16"
+    }
+  },
+  "notes": {}
+}
